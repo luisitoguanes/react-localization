@@ -5,6 +5,9 @@ import { useTranslation, initReactI18next } from "react-i18next";
 import LanguageDetector from 'i18next-browser-languagedetector';
 import HttpApi from 'i18next-http-backend';
 
+import 'bootstrap/dist/js/bootstrap.js';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 import './index.css';
 // import App from './App';
 
